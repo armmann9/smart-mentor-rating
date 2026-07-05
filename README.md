@@ -1,2 +1,5 @@
-# smart-mentor-rating
-AI-powered mentor rating predictor — parses resume PDFs, pulls in GitHub projects, and predicts a mentor rating (1–10) using an XGBoost model, all through a Streamlit app.
+Mentor Rating Predictor
+A Streamlit app that parses a mentor's resume (PDF), pulls in their public
+GitHub projects, and predicts a Mentor Rating out of 10 using a trained
+XGBoost model
+
